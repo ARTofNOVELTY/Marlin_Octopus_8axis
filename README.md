@@ -1,1 +1,1 @@
-# Marlin_Octopus_8axis
+# Marlin_Octopus_8axis / OPENPNP
